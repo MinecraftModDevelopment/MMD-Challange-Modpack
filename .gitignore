@@ -1,3 +1,4 @@
+*
 !config/*
 !local/*
 !scripts/*
@@ -6,4 +7,3 @@
 !options.txt
 !icon.png
 !.gitignore
-*
