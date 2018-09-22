@@ -2,21 +2,22 @@
   "images": {
     "title": {
       "image": "mainmenu:modpack.png",
-      "posX": -50,
-      "posY": -70,
-      "width": 256,
-      "height": 256,
-      "alignment": "top_center"
+      "posX": -280,
+      "posY": -60,
+      "width": 512,
+      "height": 512,
+      "alignment": "top_right"
     }
   },
   "buttons": {
     "singleplayer": {
       "text": "Singleplayer",
       "hoverText": "Don't go alone!",
-      "posX": -200,
-      "posY": 0,
-      "width": 100,
+      "posX": 25,
+      "posY": 40,
+      "width": 98,
       "height": 20,
+      "alignment": "left",
       "texture": "mainmenu:shortbutton.png",
       "action": {
         "type": "openGui",
@@ -26,10 +27,11 @@
     "multiplayer": {
       "text": "Multiplayer",
       "hoverText": "Venture far away!",
-      "posX": -200,
+      "posX": 25,
       "posY": 25,
-      "width": 100,
+      "width": 98,
       "height": 20,
+      "alignment": "left",
       "texture": "mainmenu:shortbutton.png",
       "action": {
         "type": "openGui",
@@ -39,10 +41,11 @@
     "server": {
       "text": "MMD Public Server",
       "hoverText": "Yes! Come join us!",
-      "posX": -200,
+      "posX": 25,
       "posY": 50,
-      "width": 100,
+      "width": 98,
       "height": 20,
+      "alignment": "left",
       "texture": "mainmenu:shortbutton.png",
       "action": {
         "type": "connectToServer",
@@ -52,10 +55,11 @@
     "discord": {
       "text": "MMD's Discord",
       "hoverText": "Plz talk to us :3",
-      "posX": -200,
+      "posX": 25,
       "posY": 75,
       "width": 98,
       "height": 20,
+      "alignment": "left",
       "texture": "mainmenu:shortbutton.png",
       "action": {
         "type": "openLink",
@@ -65,10 +69,11 @@
     "options": {
       "text": "Options",
       "hoverText": "What are these?",
-      "posX": -200,
+      "posX": 25,
       "posY": 100,
       "width": 98,
       "height": 20,
+      "alignment": "left",
       "texture": "mainmenu:shortbutton.png",
       "action": {
         "type": "openGui",
@@ -78,10 +83,11 @@
     "mods": {
       "text": "Mods",
       "hoverText": "Whats installed?",
-      "posX": -200,
+      "posX": 25,
       "posY": 125,
-      "width": 100,
+      "width": 98,
       "height": 20,
+      "alignment": "left",
       "texture": "mainmenu:shortbutton.png",
       "action": {
         "type": "openGui",
@@ -91,10 +97,11 @@
     "quit": {
       "text": "Quit",
       "hoverText": "Plz don't leave!",
-      "posX": -200,
+      "posX": 25,
       "posY": 150,
-      "width": 100,
+      "width": 98,
       "height": 20,
+      "alignment": "left",
       "texture": "mainmenu:shortbutton.png",
       "action": {
         "type": "quit"
