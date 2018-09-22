@@ -1,0 +1,9 @@
+*
+!config/*
+!local/*
+!scripts/*
+!resources/*
+!knownkeys.txt
+!options.txt
+!icon.png
+!.gitignore
