@@ -7,6 +7,14 @@
       "width": 256,
       "height": 256,
       "alignment": "top_right"
+    },
+    "background":{
+      "image": "mainmenu:backgroundlayer_menu.png",
+      "posX": 15,
+      "posY": 0,
+      "width": 118,
+      "height": 1440,
+      "alignment": "left"
     }
   },
   "buttons": {
@@ -28,7 +36,7 @@
       "text": "Multiplayer",
       "hoverText": "Venture far away!",
       "posX": 25,
-      "posY": 25,
+      "posY": 65,
       "width": 98,
       "height": 20,
       "alignment": "left",
@@ -42,7 +50,7 @@
       "text": "MMD Public Server",
       "hoverText": "Yes! Come join us!",
       "posX": 25,
-      "posY": 50,
+      "posY": 90,
       "width": 98,
       "height": 20,
       "alignment": "left",
@@ -56,7 +64,7 @@
       "text": "MMD's Discord",
       "hoverText": "Plz talk to us :3",
       "posX": 25,
-      "posY": 75,
+      "posY": 115,
       "width": 98,
       "height": 20,
       "alignment": "left",
@@ -70,7 +78,7 @@
       "text": "Options",
       "hoverText": "What are these?",
       "posX": 25,
-      "posY": 100,
+      "posY": 140,
       "width": 98,
       "height": 20,
       "alignment": "left",
@@ -84,7 +92,7 @@
       "text": "Mods",
       "hoverText": "Whats installed?",
       "posX": 25,
-      "posY": 125,
+      "posY": 165,
       "width": 98,
       "height": 20,
       "alignment": "left",
@@ -98,7 +106,7 @@
       "text": "Quit",
       "hoverText": "Plz don't leave!",
       "posX": 25,
-      "posY": 150,
+      "posY": 190,
       "width": 98,
       "height": 20,
       "alignment": "left",
@@ -175,10 +183,10 @@
       "gradient": true
     },
     "splash-text": {
-      "posX": 125,
+      "posX": -100,
       "posY": 100,
       "color": -1,
-      "alignment": "top_center"
+      "alignment": "top_right"
     }
   }
 }
