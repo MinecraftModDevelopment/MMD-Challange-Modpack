@@ -1,0 +1,18 @@
+{
+  "path": "resource/soils/obsidian_soil.json",
+  "enabled": true,
+  "id": "obsidian_soil",
+  "name": "Obsidian",
+  "varients": [
+    {
+      "item": "minecraft:obsidian",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": true,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": true
+    }
+  ]
+}

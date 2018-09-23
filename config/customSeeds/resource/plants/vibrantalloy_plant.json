@@ -1,0 +1,8 @@
+{
+  "path": "resource/mutations/vibrantalloy_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "resource:vibrantalloy_plant",
+  "parent1": "resource:prolixusferrum_plant",
+  "parent2": "extrautils2:enderlilly_plant"
+}

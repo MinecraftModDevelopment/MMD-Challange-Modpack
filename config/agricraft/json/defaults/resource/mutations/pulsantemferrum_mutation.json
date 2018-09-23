@@ -1,0 +1,8 @@
+{
+  "path": "resource/mutations/pulsantemferrum_mutation.json",
+  "enabled": true,
+  "chance": 0.10,
+  "child": "resource:pulsantemferrum_plant",
+  "parent1": "resource:ferranium_plant",
+  "parent2": "extrautils2:enderlilly"
+}

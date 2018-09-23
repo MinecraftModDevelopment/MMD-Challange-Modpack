@@ -1,0 +1,8 @@
+{
+  "path": "resource/mutations/electricaferronium_mutation.json",
+  "enabled": true,
+  "chance": 0.10,
+  "child": "resource:electricaferronium_plant",
+  "parent1": "resource:ferrum_plant",
+  "parent2": "resource:silicacia_plant"
+}

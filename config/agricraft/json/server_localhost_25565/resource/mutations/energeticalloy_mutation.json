@@ -1,0 +1,8 @@
+{
+  "path": "resource/mutations/energeticalloy_mutation.json",
+  "enabled": true,
+  "chance": 0.1,
+  "child": "resource:energeticalloy_plant",
+  "parent1": "resource:pulsantemferrum_plant",
+  "parent2": "resource:aurigold_plant"
+}

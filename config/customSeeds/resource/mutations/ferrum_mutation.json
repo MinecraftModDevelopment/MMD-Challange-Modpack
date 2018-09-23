@@ -1,0 +1,8 @@
+{
+  "path": "resource/mutations/ferrum_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "resource:ferrum_plant",
+  "parent1": "resource:ferranium_plant",
+  "parent2": "resource:carbodendron_plant"
+}
